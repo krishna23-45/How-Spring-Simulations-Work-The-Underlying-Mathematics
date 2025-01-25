@@ -33,7 +33,7 @@ The document includes the following sections:
 
 ## Usage
 
-The PDF document can be found in the repository as `Spring Simulations Underlying Mathematics.pdf`. This document serves as a reference for:
+The PDF document can be found in the repository as The compiled PDF document can be found in the repository as [Spring Simulations Underlying Mathematics.pdf](https://github.com/krishna23-45/How-Spring-Simulations-Work-The-Underlying-Mathematics/blob/main/Spring%20Simulations%20Underlying%20Mathematics.pdf). This document serves as a reference for:
 - Educational purposes in physics and mathematics.
 - Simulations involving springs and damping effects.
 - Understanding the mathematical foundation of spring systems.

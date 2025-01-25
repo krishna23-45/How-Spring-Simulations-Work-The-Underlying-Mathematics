@@ -33,14 +33,14 @@ The document includes the following sections:
 
 ## Usage
 
-The compiled PDF document can be found in the repository as `Spring Simulations Underlying Mathematics`. This document serves as a reference for:
+The PDF document can be found in the repository as `Spring Simulations Underlying Mathematics.pdf`. This document serves as a reference for:
 - Educational purposes in physics and mathematics.
 - Simulations involving springs and damping effects.
 - Understanding the mathematical foundation of spring systems.
 
 ## Contributing
 
-Contributions are welcome! If you'd like to add more sections (e.g., multi-spring systems or 3D representations) or suggest improvements, feel free to open an issue or submit a pull request.
+Any contributions would be wonderful therefore if you'd like to add more sections (e.g., multi-spring systems or 3D representations) or suggest improvements, feel free to open an issue or submit a pull request.
 
 ## License
 

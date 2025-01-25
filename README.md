@@ -16,7 +16,7 @@ The document includes the following sections:
 
 ### 3. **Force Calculation (Hooke's Law)**
 - Derives the restoring force using Hooke's Law:
-  \[ F = -k \cdot x \]
+  \[ F = -k . x \]
 - Calculates the displacement ($x$) as the difference between the current length and the initial length.
 - Provides the force in terms of the spring's length and unit vector.
 
@@ -28,7 +28,7 @@ The document includes the following sections:
 
 ### 6. **Newton's Second Law and Updates**
 - Applies Newton's second law:
-  \[ \mathbf{F} = m \mathbf{a} \]
+  \[ F = m . a ]
 - Demonstrates velocity and position updates for both endpoints based on forces and time steps.
 
 ## Usage
